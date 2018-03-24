@@ -232,3 +232,4 @@ persist.radio.flexmap_type=disabled
 
 persist.sys.oem.otg_support=true
 
+debug.sf.enable_hwc_vds=1
