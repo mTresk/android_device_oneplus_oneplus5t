@@ -36,6 +36,9 @@ TARGET_DENSITY := xxhdpi
 IS_PHONE := true
 TARGET_INCLUDE_ARCORE := true
 
+# Releasetools extension for shipping firmware
+TARGET_RELEASETOOLS_EXTENSIONS := device/oneplus/oneplus5t
+
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
