@@ -223,7 +223,7 @@ sys.games.gt.prof=1
 ro.qualcomm.cabl=0
 
 # Additional buffers shared between Camera and Video
-vidc.enc.dcvs.extra-buff-count=2
+vendor.vidc.enc.dcvs.extra-buff-count=2
 
 persist.radio.aosp_usr_pref_sel=true
 
@@ -233,3 +233,8 @@ persist.radio.flexmap_type=disabled
 persist.sys.oem.otg_support=true
 
 debug.sf.enable_hwc_vds=1
+
+persist.vendor.audio.aanc.enable=true
+persist.rcs.supported=0
+
+persist.vendor.radio.add_power_save=true
