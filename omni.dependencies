@@ -1,6 +1,6 @@
 [
   {
-    "remote": "treskmod",
+    "remote": "mtresk",
     "repository": "android_device_oneplus_oneplus5",
     "target_path": "device/oneplus/oneplus5",
     "revision": "android-9.0"
